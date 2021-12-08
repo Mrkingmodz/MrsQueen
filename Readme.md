@@ -27,7 +27,8 @@
 ### Replit
 <p align="center">
 
-  <a href="https://replit.com/@Mrkingmodz/MrsQueen#.replit"
+  Click hear to get qr❤🔥
+                 https://replit.com/@Mrkingmodz/MrsQueen#.replit
   </p>
                                                            
 ### Anime❤🧸🤗
