@@ -28,6 +28,7 @@
 <p align="center">
 
   Click hear to get qr❤🔥
+                 
    <a href="https://replit.com/@Mrkingmodz/MrsQueen#.replit"><img src="https://img.shields.io/badge/-Repl.it-black?style=flat-square&logo=github" /> 
   </p>
                                                                                                                                                  
