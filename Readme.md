@@ -30,6 +30,29 @@
   Click hear to get qr❤🔥
    <a href="https://replit.com/@Mrkingmodz/MrsQueen#.replit"><img src="https://img.shields.io/badge/-Repl.it-black?style=flat-square&logo=github" /> 
   </p>
+                                                                                                                                ## `ADD BUILDPACK`
+
+```
+
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+```
+
+## `CHANGE SESSION`
+
+[`Click Here`](https://github.com/Mrkingmodz/MrsQueen/blob/master/Queen.json#L1)
+
+## `SETTING`
+
+- Owner number [Here](https://github.com/Mrkingmodz/MrsQueen/blob/master/setting.json#L2)
+
+- Owner number [Here](https://github.com/Mrkingmodz/MrsQueen/blob/master/setting.json#L9)
+
+- Owner name [Here](https://github.com/Mrkingmodz/MrsQueen/blob/master/setting.json#L4)
+
+- Botname [Here](https://github.com/Mrkingmodz/MrsQueen/blob/master/setting.json#L10)
+
+                 
                                                            
 ### Anime❤🧸🤗
                                                           
