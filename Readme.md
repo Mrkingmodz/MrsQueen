@@ -25,7 +25,7 @@
 
 ### Anime❤🧸🤗
 <p align="center">
-  <img src="https://youtu.be/IprMpfj6GJQ" />
+  <img src="https://github.com/Mrkingmodz/MrsQueen/blob/master/a1c52ecb-996b-41b6-bde5-e664b04f1f2a.gif" />
 </p>
 
 ------
