@@ -31,8 +31,12 @@
                  
    <a href="https://replit.com/@Mrkingmodz/MrsQueen#.replit"><img src="https://img.shields.io/badge/-Repl.it-black?style=flat-square&logo=github" /> 
   </p>
-                                                                                                                                                 
------            
+                                                                                                                                                
+-----
+### Bot deploy heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrkingmodz/MrsQueen)
+
+------                                                                                                                                                                                                                            
  ## `ADD BUILDPACK`
 
 ```
